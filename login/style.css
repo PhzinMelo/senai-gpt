@@ -1,0 +1,30 @@
+.titulo {
+font-size: 76px;
+
+}
+
+.robo-image{    
+
+    background-color: rgb(226, 225, 224);
+    width: 50vw;
+    height: 100vh;
+}
+
+.page-container{    
+
+    display:flex;
+
+
+}
+.login-container{   
+      background-color: darkgray;
+      width:50vw;
+      height:100vh ;
+
+      /* Kit centralizaçãoverflow */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
