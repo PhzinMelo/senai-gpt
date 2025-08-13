@@ -1,8 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@font-face {
-  font-family: 'MinhaFonte';
-  src: url('../Fonts/PokemonSolidNormal-xyWR.ttf') format('opentype');
-}
 
 *{  
  padding:0px ;
@@ -16,8 +11,9 @@
   font-size: 76px; /* Ajuste o tamanho conforme necessário */
   font-family: "inter";
   text-align: center; /* Alinha o título no centro */
+  margin-top: 0;
   margin-bottom: 16px; /* Dá um espaçamento abaixo do título */
-  width: 400;
+  width: 400px;
   
 }
 
@@ -49,7 +45,7 @@
     }
 .logo{   
     height: 60px; 
-    margin-bottom: 16px; 
+    margin-bottom: 8px; 
 
 }
 
