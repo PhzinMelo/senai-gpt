@@ -14,10 +14,9 @@
 .titulo {
 
   font-size: 76px; /* Ajuste o tamanho conforme necessário */
-  font-family: "MinhaFonte";
+  font-family: "inter";
   text-align: center; /* Alinha o título no centro */
-  margin-top: -80px;
-  margin-bottom: -20px; /* Dá um espaçamento abaixo do título */
+  margin-bottom: 16px; /* Dá um espaçamento abaixo do título */
   width: 400;
   
 }
@@ -72,11 +71,3 @@
 background-color: #1c1c1c;
 color: #ccc;
 }
-.gengar{    
-  width: 50px;
-  height: auto;
-  border-radius: 50%;
-  margin-top: 16px;
-
-}
- 
