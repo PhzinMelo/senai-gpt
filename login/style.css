@@ -1,8 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@font-face {
-  font-family: 'MinhaFonte';
-  src: url('../Fonts/PokemonSolidNormal-xyWR.ttf') format('opentype');
-}
 
 *{  
  padding:0px ;
@@ -10,10 +5,23 @@
  box-sizing: border-box;
  font-family: "inter";   
 }
+<<<<<<< HEAD
 .titulo {
 font-size: 76px;
 font-family:"inter"; /*Ps coloca a fonte ai inter para ficar igual ao de todo mundo*/
 text-align: center;
+=======
+
+.titulo {
+
+  font-size: 76px; /* Ajuste o tamanho conforme necessário */
+  font-family: "inter";
+  text-align: center; /* Alinha o título no centro */
+  margin-top: 0;
+  margin-bottom: 16px; /* Dá um espaçamento abaixo do título */
+  width: 400px;
+  
+>>>>>>> d30798b762c46cbb0ca492a0b19ab48d2049317f
 }
 
 .robo-image{    
@@ -44,6 +52,7 @@ text-align: center;
     }
 .logo{   
     height: 60px; 
+<<<<<<< HEAD
     
 
 }
@@ -83,3 +92,27 @@ text-align: center;
     font-family: "inter";
 }
 
+=======
+    margin-bottom: 8px; 
+
+}
+
+.inpute{ 
+ padding: 20px; /*margem interna*/
+ background-color:#F7F9FB;
+ width: 377px;
+ border: 1px solid #ccc;
+ border-radius: 10px;
+ margin-bottom: 16px;
+}
+.butone{    
+ padding: 20px; /*margem interna*/
+ background-color:#F7F9FB;
+ width: 377px;
+ border: 1px solid #ccc;
+ border-radius: 10px;
+ margin-bottom: 16px;
+background-color: #1c1c1c;
+color: #ccc;
+}
+>>>>>>> d30798b762c46cbb0ca492a0b19ab48d2049317f
