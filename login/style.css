@@ -5,12 +5,6 @@
  box-sizing: border-box;
  font-family: "inter";   
 }
-<<<<<<< HEAD
-.titulo {
-font-size: 76px;
-font-family:"inter"; /*Ps coloca a fonte ai inter para ficar igual ao de todo mundo*/
-text-align: center;
-=======
 
 .titulo {
 
@@ -21,7 +15,6 @@ text-align: center;
   margin-bottom: 16px; /* Dá um espaçamento abaixo do título */
   width: 400px;
   
->>>>>>> d30798b762c46cbb0ca492a0b19ab48d2049317f
 }
 
 .robo-image{    
@@ -52,47 +45,6 @@ text-align: center;
     }
 .logo{   
     height: 60px; 
-<<<<<<< HEAD
-    
-
-}
-
-
-.text{
-    font-size: 20px;
-    color: #ffffff;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    font-family: "inter";
-    padding: 18px;
-    border-radius: 10px;
-    width:  377px;
-    
-}
-.text1{
-    font-size: 20px;
-    color: #ffffff;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    font-family: "inter";
-    padding: 18px;
-    border-radius: 10px;
-    width:  377px;
-}
-
-.button{
-    width:377px ;
-    height: 50px;
-    background-color: #000000;
-    color: #FFFFFF;
-    font-size: 20px;
-    border-radius: 10px;
-    border: none;
-    cursor: pointer;
-    font-family: "inter";
-}
-
-=======
     margin-bottom: 8px; 
 
 }
@@ -115,4 +67,3 @@ text-align: center;
 background-color: #1c1c1c;
 color: #ccc;
 }
->>>>>>> d30798b762c46cbb0ca492a0b19ab48d2049317f
